@@ -9,7 +9,7 @@
 </div>
 
 # 💫 About Me:
-Hey folks! 👋 I'm Abhyuday, a passionate technologist driven by the art of creating immersive and visually captivating web experiences. As a Junior Frontend Developer, I specialize in harnessing the power of HTML, CSS, and JavaScript to craft exceptional user interfaces. My goal is to not only make websites look great but also ensure seamless navigation and optimal performance. With a solid foundation in C and Java, I bring a well-rounded skill set to the table. I thrive on collaborating with teams.<br>Let's connect and explore the exciting possibilities of creating remarkable web solutions together!
+Hey folks! 👋 I'm Anton, a passionate technologist driven by the art of creating immersive and visually captivating web experiences. As a Junior Frontend Developer, I specialize in harnessing the power of HTML, CSS, and JavaScript to craft exceptional user interfaces. My goal is to not only make websites look great but also ensure seamless navigation and optimal performance. With a solid foundation in C and Java, I bring a well-rounded skill set to the table. I thrive on collaborating with teams.<br>Let's connect and explore the exciting possibilities of creating remarkable web solutions together!
 
 <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
 
